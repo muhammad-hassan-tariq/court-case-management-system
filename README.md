@@ -171,15 +171,15 @@ Make sure Microsoft SQL Server is running and the `CourtCaseDB` database is avai
 ## Screenshots
 ### Dashboard
 
-![Court Case Management System Dashboard](screenshots/dashboard.png)
+![Court Case Management System Dashboard](screenshots/Dashboard(2).png)
 
 ### Case Management
 
-![Case Management](screenshots/cases.png)
+![Case Management](screenshots/Cases.png)
 
 ### Hearing Management
 
-![Hearing Management](screenshots/hearings.png)
+![Hearing Management](screenshots/Hearings.png)
 
 ### Judges Management
 
